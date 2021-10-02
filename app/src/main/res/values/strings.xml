@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Food Order</string>
+    <string name="orderDetailsDescription">Chicken Burger with extra cheese</string>
+</resources>
